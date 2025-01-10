@@ -1,10 +1,6 @@
 # Nuclues Calculator
 #### Video Demo:  _URL [HERE](https://drive.google.com/file/d/1t5XF8UeFY5lEnYBGX3RlzerFLz7et9O8/view?usp=drive_link)_
-#### Description:
-
-Nucleus Calculator is a scientific calculator made by basic web frontend technologies, Python (using Python Eel) and an SQLite3 database.
-
-It is a complex calculator that uses a parsor and multiple nested and recursive functions to calculate the result of a given expression. It also has a history of the last 10 calculations made by the user, and the entire logs if the user wants to.
+#### Description: Nucleus Calculator is a scientific calculator made by basic web frontend technologies, Python (using Python Eel) and an SQLite3 database. It is a complex calculator that uses a parsor and multiple nested and recursive functions to calculate the result of a given expression. It also has a history of the last 10 calculations made by the user, and the entire logs if the user wants to.
 
 ## How to use
 First, open your Chrome browser. Python Eel uses a Chrome instance for every app, to allow connections between the frontend and the backend.
